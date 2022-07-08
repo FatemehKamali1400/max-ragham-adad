@@ -1,0 +1,15 @@
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\bin\Debug\net6.0\max ragham adad.exe
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\bin\Debug\net6.0\max ragham adad.deps.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\bin\Debug\net6.0\max ragham adad.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\bin\Debug\net6.0\max ragham adad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\bin\Debug\net6.0\max ragham adad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\refint\max ragham adad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\max ragham adad.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\9\max ragham adad\obj\Debug\net6.0\ref\max ragham adad.dll
